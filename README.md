@@ -28,7 +28,7 @@ $ friendzone
 Select the platform that you want compromise
 
 #### Step 2
-Select the payload to use
+Select the payload to you use
 
 #### Step 3
 Select the following fields:
