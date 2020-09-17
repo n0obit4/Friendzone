@@ -28,11 +28,6 @@ This is an automated exploit maker that their core is metasploit framework. This
   - Metasploit Framework
   - Networking Tools
 
-## Instalation
-
-```bash
-$ chmod +x setup
-$ sudo ./setup
 ```
 # How to use
 
