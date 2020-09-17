@@ -28,11 +28,11 @@ This is an automated exploit maker that their core is metasploit framework. This
   - Metasploit Framework
   - Networking Tools
 
-```
+
 # How to use
 
 ```bash
-$ friendzone
+$ sudo ./friendzone
 ```
 #### Step 1
 Select the platform that you want compromise
