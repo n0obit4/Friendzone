@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <a href="https://github.com/n0obit4/Friendzone"><img src="https://raw.githubusercontent.com/n0obit4/Friendzone/master/Resources/Logo.png?token=AJY45AV7SLPOWYGYDLRNBLK7MLPQ4" alt="Friendzone" border="0" width="180"></a>
+  <a href="https://github.com/n0obit4/Friendzone"><img src="https://raw.githubusercontent.com/n0obit4/Friendzone/master/Resources/Logo.png" alt="Friendzone" border="0" width="180"></a>
   <br>
   Friendzone
   <br>
