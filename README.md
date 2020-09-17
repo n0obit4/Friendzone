@@ -29,7 +29,7 @@ This is an automated exploit maker that their core is metasploit framework. This
   - Networking Tools
 
 
-# How to use
+## How to use
 
 ```bash
 $ sudo ./friendzone
