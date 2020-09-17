@@ -1,7 +1,7 @@
 <html>
   <body>
     <center>
-      <img src=https://raw.githubusercontent.com/n0obit4/Friendzone/master/Resources/Logo.png>
+      <img src="https://raw.githubusercontent.com/n0obit4/Friendzone/master/Resources/Logo.png">
     </center>
   </body>
 </html>
