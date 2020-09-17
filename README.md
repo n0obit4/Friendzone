@@ -8,7 +8,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Release-v1.0-blue.svg">
-  <img src="https://img.shields.io/badge/Licence-GPL3-brightgreen.svg">
+  <img src="https://img.shields.io/badge/License-GPL3-brightgreen.svg">
   <img src="https://img.shields.io/badge/God-Not%20found-red.svg">
 </p>
 
