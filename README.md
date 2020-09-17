@@ -79,4 +79,6 @@ Sistemas para comprometer
 
 ## Demostration
 
+Video demonstration of the process to create exploit.
+
 ![Video Demostration](https://raw.githubusercontent.com/n0obit4/Friendzone/master/Resources/Demostration.gif)
