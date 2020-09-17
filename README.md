@@ -5,7 +5,6 @@
   Friendzone
   <br>
 </h1>
-#### Introduction
 
 <p align="center">
   <img src="https://img.shields.io/badge/Licence-GPL3-brightgreen.svg">
