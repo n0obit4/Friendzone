@@ -1,3 +1,11 @@
+<html>
+  <body>
+    <center>
+      <img src=https://raw.githubusercontent.com/n0obit4/Friendzone/master/Resources/Logo.png>
+    </center>
+  </body>
+</html>
+
 # Friendzone
 
 This is an automated exploit maker that their core is metasploit framework. This program use msfconsole to create exploits and msfconsole to linstener it.
