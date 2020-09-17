@@ -1,10 +1,10 @@
-<html>
-  <body>
-    <center>
-      <img src="https://raw.githubusercontent.com/n0obit4/Friendzone/master/Resources/Logo.png?token=AJY45AV7SLPOWYGYDLRNBLK7MLPQ4" width=150 heigh=150>
-    </center>
-  </body>
-</html>
+<h1 align="center">
+  <br>
+  <a href="https://github.com/n0obit4/Friendzone"><img src="https://raw.githubusercontent.com/n0obit4/Friendzone/master/Resources/Logo.png?token=AJY45AV7SLPOWYGYDLRNBLK7MLPQ4" alt="Friendzone" border="0" width="180"></a>
+  <br>
+  Friendzone
+  <br>
+</h1>
 
 # Friendzone
 
