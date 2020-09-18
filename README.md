@@ -15,7 +15,7 @@
 
 <h2>Introduction</h2>
 
-This is an automated exploit maker that their core is metasploit framework. This program use msfconsole to create exploits and msfconsole to linstener it.
+This is an automated exploit maker that their core is metasploit framework. This program use msfconsole to create exploits and msfconsole to linstener it. Should only be used for EDUCATIONAL PURPOSE.
 
 #### Additional Features of v1.0
 
