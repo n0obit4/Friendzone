@@ -1,19 +1,21 @@
 <h1 align="center">
   <br>
-  <a href="https://github.com/n0obit4/Friendzone"><img src="https://raw.githubusercontent.com/n0obit4/Friendzone/master/Resources/Logo.png" alt="Friendzone" border="0" width="180"></a>
+  <a href="https://github.com/n0obit4/Friendzone"><img src="https://raw.githubusercontent.com/n0obit4/Friendzone/master/Resources/Logo.png" alt="Friendzone Logo" border="0" width="180"></a>
   <br>
   Friendzone
   <br>
 </h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Licence-GPL3-brightgreen.svg">
-  <img src="https://img.shields.io/badge/God-Not%20found-red.svg">
+  <img src="https://img.shields.io/badge/Release-v1.0-blue.svg">
+  <img src="https://img.shields.io/badge/License-GPL3-brightgreen.svg">
+  <img src="https://img.shields.io/badge/Platform-Linux-yellow.svg">
 </p>
 
-<h3>Introduction</h3>
 
-This is an automated exploit maker that their core is metasploit framework. This program use msfconsole to create exploits and msfconsole to linstener it.
+<h2>Introduction</h2>
+
+This is an automated exploit maker that their core is metasploit framework. This program use msfconsole to create exploits and msfconsole to linstener it. Should only be used for EDUCATIONAL PURPOSE.
 
 #### Additional Features of v1.0
 
@@ -26,16 +28,11 @@ This is an automated exploit maker that their core is metasploit framework. This
   - Metasploit Framework
   - Networking Tools
 
-## Instalation
+
+## How to use
 
 ```bash
-$ chmod +x setup
-$ sudo ./setup
-```
-# How to use
-
-```bash
-$ friendzone
+$ sudo ./friendzone
 ```
 #### Step 1
 Select the platform that you want compromise
@@ -82,4 +79,6 @@ Sistemas para comprometer
 
 ## Demostration
 
+Video demonstration of the process to create exploit.
 
+![Video Demostration](https://raw.githubusercontent.com/n0obit4/Friendzone/master/Resources/Demostration.gif)
